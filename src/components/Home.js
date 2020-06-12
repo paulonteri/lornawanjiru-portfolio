@@ -45,9 +45,10 @@ import React from 'react';
                                   <center> <h3>DOG BREEDING</h3>
                                    <p>Dont I love dogs. All my life i havent actually being a dog person or lets say an animal person,
                                     but after staying for a while with someone i actually came to enjoy and love dog companies.
-                                   I am not really experienced at dog breeding but for sure i love dogs and i think i do a good job at it.
+                                   <br></br>
                                    <button>LEARN MORE</button>
                                    </p></center>
+
                                 </div>
                             </div>
                             <div id="webby">
@@ -71,9 +72,9 @@ import React from 'react';
                                    <center><h3>CYBERSECURITY</h3>
                                    <p>
                                       Have you ever considered? I have children who will protect them? Well yes thats me. I love everything i develop cause thats my work.
-                                      but they need protection and i loving my work.<br></br>
-                                      <button>LEARN MORE</button> 
+                                      but they need protection and i loving my work.<br></br>   
                                     </p></center>
+                                    <button>LEARN MORE</button> 
                                 </div>
                             </div>
                 </div>
