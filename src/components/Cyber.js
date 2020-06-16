@@ -1,12 +1,7 @@
-import React from 'react';
+import React from "react";
 
+function Cyber() {
+  return <div></div>;
+}
 
- function Cyber(){
-     return(
-         <div>
-             
-         </div>
-     );
- }
-
- export default Cyber;
+export default Cyber;
